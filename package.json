@@ -16,5 +16,5 @@
     "type": "git",
     "url": "https://github.com/espressif/crosstool-NG"
   },
-  "system": "windows"
+  "system": "windows_amd64"
 }
